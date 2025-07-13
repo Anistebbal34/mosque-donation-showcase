@@ -8,26 +8,19 @@ It was part of a full-stack digital transformation from a **paper-based traditio
 
 
 ## 📸 Screenshots
+check the pictures
 
 ### 🔧 login
-![Admin Dashboard](/login.jpg)
+
 
 ### 🔧 Admin Dashboard
-![Admin Dashboard](/map.jpg)
-![Admin Dashboard](/mosque.jpg)
-![Admin Dashboard](/mosqueslists.jpg)
-![Admin Dashboard](/tasks.jpg)
-![Admin Dashboard](/prereport.jpg)
+
 
 ### 🛣 Route driver Interface
-![Optimized Routes](screenshots/driver.jpg)
-![Optimized Routes](screenshots/driverone.jpg)
-![Optimized Routes](screenshots/drivertwo.jpg)
+
 
 ### 📱 Mobile imam Interface
-![Mobile View](screenshots/imamone.jpg)
-![Mobile View](screenshots/imamtwo.jpg)
-![Mobile View](screenshots/imam.jpg)
+
 
 
 ---
