@@ -9,19 +9,42 @@ It was part of a full-stack digital transformation from a **paper-based traditio
 
 ## 📸 Screenshots
 
+### 🔧 login
+![Admin Dashboard](/login.jpg)
+
 ### 🔧 Admin Dashboard
-![Admin Dashboard](screenshots/dashboard.png)
+![Admin Dashboard](/map.jpg)
+![Admin Dashboard](/mosque.jpg)
+![Admin Dashboard](/mosqueslists.jpg)
+![Admin Dashboard](/tasks.jpg)
+![Admin Dashboard](/prereport.jpg)
 
-### 🛣 Route Optimization
-![Optimized Routes](screenshots/driver-view.png)
+### 🛣 Route driver Interface
+![Optimized Routes](screenshots/driver.jpg)
+![Optimized Routes](screenshots/driverone.jpg)
+![Optimized Routes](screenshots/drivertwo.jpg)
 
-### 📱 Mobile Driver Interface
-![Mobile View](screenshots/mobile-version.png)
+### 📱 Mobile imam Interface
+![Mobile View](screenshots/imamone.jpg)
+![Mobile View](screenshots/imamtwo.jpg)
+![Mobile View](screenshots/imam.jpg)
 
 
 ---
+ ## My Role
+I was solely responsible for the backend development of this project. My work included:
 
-##  Features Implemented
+📐 Database modeling using PostgreSQL and Sequelize
+
+🔧 Building RESTful APIs for all user roles (Admin, Driver, Imam)
+
+🧪 Implementing validation and testing for data integrity and workflows
+
+📄 Writing detailed documentation to support future contributors and maintainers
+
+📦 Containerizing the backend with Docker for easy deployment
+
+##  Features i implmented Implemented
 
 - 🚚 **Driver (volunteer) routing with shortest paths**
 - 🔐 **Role-based access** for Admins, Drivers, and Imams
