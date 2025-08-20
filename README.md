@@ -1,3 +1,21 @@
+## 📂 Repository Structure
+
+### 🖼️ **Screenshots** *(root level)*
+The images in the repository are **real system screenshots** showing various **features, dashboards, and workflows**.
+
+---
+
+### 💻 **`code/` Folder** *(selected showcase code)*
+This folder contains a **cleaned-up, partial version** of the actual source code.  
+It **does not include the entire private production codebase**, but it’s enough to demonstrate:
+
+- 🏗️ **Backend architecture design**
+- 🔗 **API development practices**
+- 🧪 **Testing setup** & **code organization**
+- ✍️ **General coding style** and **problem-solving skills**
+
+
+
 #  Mosque Donation Collection – Showcase
 
 This is a **public portfolio showcase** of a freelance backend system built to **digitize and secure mosque donation collection operations**.
