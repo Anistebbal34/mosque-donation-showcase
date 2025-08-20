@@ -1,6 +1,6 @@
 ## 📂 Repository Structure
 
-### 🖼️ **Screenshots** *(root level)*
+###  **Screenshots** *(root level)*
 The images in the repository are **real system screenshots** showing various **features, dashboards, and workflows**.
 
 ---
@@ -9,10 +9,10 @@ The images in the repository are **real system screenshots** showing various **f
 This folder contains a **cleaned-up, partial version** of the actual source code.  
 It **does not include the entire private production codebase**, but it’s enough to demonstrate:
 
-- 🏗️ **Backend architecture design**
-- 🔗 **API development practices**
-- 🧪 **Testing setup** & **code organization**
-- ✍️ **General coding style** and **problem-solving skills**
+-  **Backend architecture design**
+-  **API development practices**
+-  **Testing setup** & **code organization**
+-  **General coding style** and **problem-solving skills**
 
 
 
